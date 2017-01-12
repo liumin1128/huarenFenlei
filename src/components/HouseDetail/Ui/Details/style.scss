@@ -1,0 +1,46 @@
+@import "../../../../styles/base";
+
+.box {
+    padding: 20px;
+    position: relative;
+}
+
+.title {
+    @extend .strongTitleFont;
+}
+.other {
+    margin-top: 10px;
+    .price {
+        @extend .strongFont;
+        margin-right: 10px;
+        span {
+            @extend .font3;
+            color: $themeColor;
+        }
+    }
+    .createdAt {
+        font-size: 12px;
+    }
+}
+    
+.right {
+    position: absolute;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    .button {
+        width: 30px;
+        margin-right: 20px;
+    }
+}
+.count {
+    position: absolute;
+    bottom: 12px;
+    font-size: 10px;
+    color: #fff;
+    background: rgba(0,0,0,0.1);
+    padding: 1px 10px;
+    border-radius: 10px;
+}

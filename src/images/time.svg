@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-时间</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0.5" width="1" height="6" rx="0.5"></rect>
+        <rect id="path-2" x="2.5" y="3" width="1" height="6" rx="0.5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="详情" transform="translate(-18.000000, -345.000000)">
+            <g id="Group-8" transform="translate(0.000000, 2.000000)">
+                <g id="time" transform="translate(16.000000, 341.000000)">
+                    <g id="icon-时间">
+                        <rect id="Rectangle-12" x="0" y="0" width="26" height="26"></rect>
+                        <path d="M22.9682554,12.9839185 C22.9682554,7.47950758 18.4887479,3 12.984337,3 C7.47983463,3 3,7.479599 3,12.9839185 C3,18.4883229 7.47991952,22.9682255 12.984337,22.9682255 C18.488663,22.9682255 22.9682554,18.4884143 22.9682554,12.9839185 Z M2,12.9839185 C2,6.92722283 6.9276413,2 12.984337,2 C19.0410326,2 23.9682554,6.92722283 23.9682554,12.9839185 C23.9682554,19.0406141 19.0410326,23.9682255 12.984337,23.9682255 C6.9276413,23.9682255 2,19.0406141 2,12.9839185 Z" id="Fill-1" fill="#515151"></path>
+                        <g id="Group-2" transform="translate(11.000000, 8.000000)">
+                            <g id="Group-3">
+                                <g id="Rectangle-4">
+                                    <use fill="#D8D8D8" xlink:href="#path-1"></use>
+                                    <use fill="#515151" xlink:href="#path-1"></use>
+                                </g>
+                                <g id="Rectangle-4" transform="translate(3.000000, 6.000000) rotate(90.000000) translate(-3.000000, -6.000000) ">
+                                    <use fill="#D8D8D8" xlink:href="#path-2"></use>
+                                    <use fill="#515151" xlink:href="#path-2"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

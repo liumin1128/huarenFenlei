@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Anonymous</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.1973333,14.6565517 C12.1906667,14.6565517 11.4433333,13.5593103 10.8976667,12.7582759 C10.5426667,12.2365517 10.3413333,11.9644828 10,11.9644828 C9.67233333,11.9644828 9.488,12.2248276 9.164,12.7241379 C8.63466667,13.5396552 7.90966667,14.6565517 5.761,14.6565517 C2.79833333,14.6565517 0,14.6565517 0,9.87758621 C0,6.59689655 3.26433333,5.00172414 9.97933333,5.00172414 C16.722,5.00172414 20,6.59689655 20,9.87758621 C20,14.6565517 17.1813333,14.6565517 14.1973333,14.6565517 L14.1973333,14.6565517 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="9.65482759" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M5.84033333,11.2082759 L5.755,11.2075862 C4.688,11.1889655 3.743,10.8206897 3.163,10.1975862 C2.835,9.84551724 2.659,9.43724138 2.66666667,9.04896552 C2.69333333,7.76034483 4.58033333,7.76034483 5.48733333,7.76034483 C5.599,7.76034483 5.71366667,7.76137931 5.83133333,7.76344828 C7.046,7.78482759 7.94466667,7.89517241 8.38133333,8.36413793 C8.577,8.57448276 8.673,8.8437931 8.66666667,9.16482759 C8.646,10.1555172 7.64866667,11.2082759 5.84033333,11.2082759 L5.84033333,11.2082759 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.00053436" height="3.44793103" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M14.245,11.2075862 L14.1596667,11.2082759 C12.3513333,11.2082759 11.354,10.1555172 11.3333333,9.16482759 C11.327,8.8437931 11.423,8.57448276 11.6186667,8.36413793 C12.0553333,7.89517241 12.9536667,7.78482759 14.1686667,7.76344828 C14.2863333,7.76137931 14.4006667,7.76034483 14.5126667,7.76034483 C15.4193333,7.76034483 17.3066667,7.76034483 17.333,9.04896552 C17.341,9.43724138 17.165,9.84517241 16.8373333,10.1972414 C16.257,10.8206897 15.3123333,11.1889655 14.245,11.2075862 L14.245,11.2075862 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.00022192" height="3.44793103" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="详情" transform="translate(-18.000000, -1101.000000)" stroke="#595968" stroke-width="2">
+            <g id="Inputbar" transform="translate(0.000000, 1090.000000)">
+                <g id="Anonymous" transform="translate(18.000000, 6.000000)">
+                    <use id="Shape" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="Path" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                    <use id="Path" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

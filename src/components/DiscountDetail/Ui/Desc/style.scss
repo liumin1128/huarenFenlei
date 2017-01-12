@@ -1,0 +1,27 @@
+@import "../../../../styles/base";
+
+.box {
+    position: relative;
+    background: #fff;
+    .title {
+        @extend .font2;
+        font-size: 15px;
+        font-weight: 100;
+        padding: 12px 16px;
+        padding-bottom: 8px;
+        // border-bottom: 1px #ddd solid;
+    }
+    .hr {
+        padding-left: 16px;
+        background: #ddd;
+        height: 1px;
+        margin-left: 16px;
+    }
+    .content {
+        @extend .font2;
+        line-height: 1.5em;
+        padding: 12px 16px;
+        padding-top: 8px;
+        
+    }
+}

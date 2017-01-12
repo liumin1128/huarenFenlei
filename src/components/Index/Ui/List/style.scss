@@ -1,0 +1,47 @@
+@import "../../../../styles/base";
+
+.box {
+    position: relative;
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        padding: 8px 4px;
+        .item {
+            width: 33.3%;
+            padding: 4px;
+            box-sizing: border-box;
+            .button {
+                width: 100%;
+                height: 100%;
+                height: 120px;
+                max-height: 115px;
+                max-width: 115px;
+                display: block;
+                background: #fff;
+                position: relative;
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+                justify-content: center;
+                img {
+                    width: 80%;
+                }
+                p {
+                    position: absolute;
+                    bottom: 7px;
+                    left: 0;
+                    width: 100%;
+                    margin-top: 10px;
+                    color: #969696;
+                    width: 100%;
+                    text-align: center;
+                }
+            }
+            
+        }
+        .icon {
+            width: 50px;
+        }
+    }
+}

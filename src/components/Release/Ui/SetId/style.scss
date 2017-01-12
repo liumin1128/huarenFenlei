@@ -1,0 +1,42 @@
+.box{
+    padding: 0px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.left{
+    width: 120px;
+    font-size: 14px;
+    color: #515151;
+    padding-left: 16px;
+    font-weight: 100;
+}
+.letterSpacing{
+    letter-spacing: 28px;
+    overflow: hidden;
+    white-space:nowrap;
+}
+.items{
+    width: 100%;
+    font-size: 14px;
+    font-weight: 200;
+    color: #515151;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    height: 48px;
+}
+.item{
+    width: 76px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px #58cc7c solid;
+}
+.active {
+    background: #58cc7c;
+    color: #fff;
+}

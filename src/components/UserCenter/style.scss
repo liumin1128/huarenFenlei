@@ -1,0 +1,43 @@
+@import "../../styles/base";
+
+.box {
+    width: 100%;
+}
+
+.uc {
+    background: #fff;
+    .userinfo {
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        h3 {
+            margin-top: 20px;
+        }
+    }
+}
+.itemsBox {
+    padding: 0px;
+}
+.items {
+    display: flex;
+    justify-content: flex-start;
+    // border-left: 1px #ececec solid;
+    // border-top: 1px #ececec solid;
+        border-bottom: 1px #ececec solid;    
+    .item {
+        width: 25%;
+        padding: 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        a {
+            color: #515151;
+            text-decoration: none;
+        }
+        // border-right: 1px #ececec solid;
+    }
+}
+.button {
+    padding: 16px;
+}

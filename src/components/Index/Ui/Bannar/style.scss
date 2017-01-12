@@ -1,0 +1,19 @@
+@import "../../../../styles/base";
+
+.box {
+    position: relative;
+    background: #fff;
+    .item {
+        height: 150px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        img{
+            height: 100%;
+            width: 100%;
+            // min-width: 100%;
+            // min-height: 100%;
+        }
+    }
+}

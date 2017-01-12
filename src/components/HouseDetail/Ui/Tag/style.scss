@@ -1,0 +1,15 @@
+@import "../../../../styles/base";
+
+.box{
+    padding: 10px 30px;
+    box-shadow: '0px 0px 2px #ccc';
+    .tag {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        p {
+            @extend .font2;
+            margin-left: 10px;
+        }
+    }
+}

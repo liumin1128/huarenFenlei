@@ -1,0 +1,57 @@
+// 颜色
+$baseColor: #515151 !default;
+$themeColor: #58cc7c !default;
+
+$color1: $baseColor;
+$color2: $baseColor * (2 - 0.87) !default;
+$color3: $baseColor * (2 - 0.56) !default;
+$color4: $baseColor * (2 - 0.27) !default;
+
+// 字体大小
+$baseFontSize: 15px !default;
+
+$fontSize0: $baseFontSize + 2 !default;
+$fontSize1: $baseFontSize !default;
+$fontSize2: $baseFontSize - 2 !default;
+$fontSize3: $baseFontSize - 3 !default;
+$fontSize4: $baseFontSize - 5 !default;
+
+// 字体样式
+.strongFont {
+    font-size: $fontSize0;
+    color: $themeColor;
+    font-family: 'PingFangSC-Medium';
+}
+.strongTitleFont {
+    @extend .strongFont;
+    color: $color1;
+}
+.titleFont {
+    @extend .strongTitleFont;
+    font-family: 'PingFangSC-Regular';
+}
+.font1 {
+    font-size: $fontSize1;
+    color: $color1;
+    font-family: 'PingFangSC-Regular';
+}
+.font2 {
+    font-family: 'PingFangSC-Regular';
+    font-size: $fontSize2;
+    color: $color2;
+}
+.font3 {
+    font-family: 'PingFangSC-Regular';
+    font-size: $fontSize3;
+    color: $color3;
+}
+.font4 {
+    font-family: 'PingFangSC-Regular';
+    font-size: $fontSize4;
+    color: $color4;
+}
+
+
+$basePadding: 6px;
+$smallPadding: $basePadding / 2;
+

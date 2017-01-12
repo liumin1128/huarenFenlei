@@ -1,0 +1,58 @@
+@import "../../../../styles/base";
+
+.items {
+    width: 100%;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // flex-wrap: wrap;
+    padding: $basePadding;
+    box-sizing: border-box;
+    .item {
+        width: 50%;
+        padding: $basePadding;
+        box-sizing: border-box;
+        display: inline-block;
+        .info {
+            padding: $smallPadding;
+        }
+        .img {
+            width: 100%;
+        }
+        .title {
+            @extend .font2;
+            padding: $smallPadding;
+        }
+        .time {
+            @extend .title;
+            color: $color1;
+        }
+        .price {
+            padding: $smallPadding;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            .x {
+                @extend .strongFont;
+                font-size: 20px;
+            }
+            .y {
+                @extend .font3;
+                align-self: flex-end;
+                margin-left: 8px;
+                color: $color4;
+            }
+            .z {
+                @extend .font2;
+                background: url('../../../../images/tag.svg') no-repeat 100% 100%;
+                display: inline-block;
+                width: 40px;
+                height: 20px;
+                color: #fff;
+                text-align: right;
+                line-height: 23px;
+                padding-right: 5px;
+            }
+        }
+    }
+}

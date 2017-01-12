@@ -1,0 +1,24 @@
+@import "../../../../styles/base";
+
+.box {
+    position: relative;
+    background: #fff;
+    width: 100%;
+    .button {
+        padding-left: 4px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        img {
+            width: 15px;
+        }
+    }
+    .input {
+        padding: 16px;
+        padding-top: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+ 

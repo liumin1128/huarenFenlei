@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="18px" viewBox="0 0 40 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>打折</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="打折" transform="translate(0.000000, -1.000000)">
+            <g transform="translate(0.000000, 1.000000)">
+                <path d="M36.5234208,0.150387097 L8.39050896,0.150387097 C8.39050896,0.150387097 0,6.49863871 0,9.06723871 C0,11.6358387 8.39050896,18 8.39050896,18 L36.5234208,18 C37.9529835,18 39.1119427,16.7647935 39.1119427,15.2411226 L39.1119427,2.90920645 C39.1119971,1.38553548 37.953038,0.150387097 36.5234208,0.150387097 L36.5234208,0.150387097 Z M4.41840573,10.835129 C3.50640573,10.835129 2.76705376,10.0471935 2.76705376,9.07519355 C2.76705376,8.10313548 3.50640573,7.3152 4.41840573,7.3152 C5.33040573,7.3152 6.06970323,8.10313548 6.06970323,9.07519355 C6.06970323,10.0471935 5.33040573,10.835129 4.41840573,10.835129 L4.41840573,10.835129 Z" id="iconfont-tryicobiaoqian" fill="#58CC7C"></path>
+                <g id="iconfont-tags" transform="translate(8.888889, 8.526316)" fill="#272536">
+                    <path id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

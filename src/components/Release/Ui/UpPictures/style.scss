@@ -1,0 +1,74 @@
+.box {
+    background: none;
+}
+.qiniu{
+  width: 70px !important;
+  height: 70px !important;
+  background: #ddd;
+  border: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  .camera{
+    width: 30px;
+    height: 30px;
+    margin: auto;
+  }
+}
+.swipeImgItem {
+  display: inline-block;
+}
+
+.imageViewList {
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  .img {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+}
+.imgView {
+  width: 100%;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.modal {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  top: 0;
+  left: 100%;
+  z-index: 9999;
+  transition: 0.3s;
+  opacity: 0;
+  .foot{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    background: rgba(0,0,0,0.8);
+    span{
+      padding: 10px 20px;
+    }
+  }
+}
+.open {
+  left: 0;
+  opacity: 1;
+}

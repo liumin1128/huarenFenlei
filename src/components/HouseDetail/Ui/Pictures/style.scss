@@ -1,0 +1,30 @@
+.box{
+    position: relative;
+    overflow: hidden;
+    img{
+        width: 100%;
+    }
+}
+.price {
+    display: block;
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    font-family: 'Avenir-Book';
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    .bigger {
+        font-size: 20px
+    }
+}
+.button {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    background: rgba(255,255,255,0.5);
+    padding: 10px;
+    border-radius: 100px;
+}

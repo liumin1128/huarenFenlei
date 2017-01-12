@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>闲置出售</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="51.2402272 44.9027485 4.29253125 44.9027485 0.17169451 0.69375 55.2496976 0.69375"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="闲置出售" transform="translate(-53.000000, -30.000000)">
+            <g transform="translate(53.000000, 30.000000)">
+                <circle id="Oval-5-Copy" fill="#FABE11" cx="60" cy="60" r="60"></circle>
+                <g id="Group" transform="translate(31.000000, 25.000000)">
+                    <path d="M47.025,24.75 C47.025,11.0809524 39.2683333,0 29.7,0 C20.1316667,0 12.375,11.0809524 12.375,24.75" id="Oval-2" stroke="#FAFAFA" stroke-width="2" stroke-linecap="round"></path>
+                    <polygon id="Rectangle-5" fill="#F0F0F0" points="50.985141 53.90625 6.23869833 53.90625 0.825 11.9 56.925 11.9"></polygon>
+                    <g id="Rectangle-2" transform="translate(1.000000, 22.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FBFBFB" xlink:href="#path-1"></use>
+                        <rect fill="#F4F4F4" mask="url(#mask-2)" x="-14" y="-41" width="44" height="118"></rect>
+                    </g>
+                    <polygon id="Path-2" fill="#BA0B34" points="8.04647163 16.3973958 0.731985205 11.9 56.9400915 11.9 48.5060285 16.3973958 56.6781531 22.69375 1.07128383 22.69375"></polygon>
+                    <circle id="Oval" fill="#74001C" cx="9.45" cy="31.15" r="2.75"></circle>
+                    <circle id="Oval-Copy" fill="#74001C" cx="48.85" cy="31.15" r="2.75"></circle>
+                    <path d="M48.4,31.15 C48.4,18.6959789 39.7814814,8.6 29.15,8.6 C18.5185186,8.6 9.9,18.6959789 9.9,31.15" id="Oval-2" stroke="#FAFAFA" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15">
+            <circle id="Oval-9" fill="#3EC2CF" cx="60" cy="60" r="60"></circle>
+            <g id="Group-14" transform="translate(26.000000, 31.000000)">
+                <rect id="Rectangle-33" fill="#FEFEFE" x="3" y="17" width="60" height="38"></rect>
+                <rect id="Rectangle-34" fill="#ECE9A6" x="0" y="55" width="68" height="3"></rect>
+                <rect id="Rectangle-35" fill="#30C5C9" x="7" y="22" width="9" height="12"></rect>
+                <rect id="Rectangle-35-Copy-4" fill="#30C5C9" x="7" y="36" width="9" height="12"></rect>
+                <rect id="Rectangle-35-Copy" fill="#30C5C9" x="21.6666667" y="22" width="9" height="12"></rect>
+                <rect id="Rectangle-35-Copy-2" fill="#30C5C9" x="36.3333333" y="22" width="9" height="12"></rect>
+                <rect id="Rectangle-35-Copy-3" fill="#30C5C9" x="51" y="22" width="9" height="12"></rect>
+                <rect id="Rectangle-35-Copy-7" fill="#30C5C9" x="51" y="36" width="9" height="12"></rect>
+                <rect id="Rectangle-37" fill="#A8D2C6" x="45" y="0" width="6" height="7"></rect>
+                <rect id="Rectangle-36" fill="#A7D5CB" x="27" y="36" width="13" height="19"></rect>
+                <polygon id="Rectangle-32" fill="#FFB21E" points="0 19 2.75836638 7 67.2746487 7 70.0330151 19"></polygon>
+                <polygon id="Rectangle-32" fill="#F8E63E" points="0 17 2.78306281 5 66.9437123 5 69.7267751 17"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

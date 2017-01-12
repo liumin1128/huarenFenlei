@@ -1,0 +1,68 @@
+@import "../../../../styles/base";
+
+.items {
+    width: 100%;
+    background: #fff;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    // flex-wrap: wrap;
+    // padding: $basePadding;
+    box-sizing: border-box;
+    .item { 
+        width: 100%;
+        padding: $basePadding;
+        box-sizing: border-box;
+        display: inline-block;
+        position: relative;
+        border-bottom: 1px #ececec solid;
+        .info {
+            padding: $smallPadding;
+            padding-left: 100px + $basePadding*2;
+            height: 96px;
+            .bottom {
+                display: flex;
+                align-items: center;
+                position: absolute;
+                bottom: $basePadding*2;
+                left: 100px + $basePadding*2;
+            }
+            .city {
+                font-size: 12px;
+                color: #969696;
+                display: flex;
+                align-items: center;
+                padding-right: $basePadding*2;
+            }
+            .subType {
+                @extend .city;
+            }
+            .createdAt {
+                @extend .city;
+                position: absolute;
+                bottom: $basePadding*2;
+                right: $basePadding;
+            }
+        }
+        .img {
+            width: 100px;
+            position: absolute;
+            top: $basePadding;
+            left: $basePadding;
+        }
+        .title {
+            @extend .font1;
+            padding: $smallPadding;
+        }
+        .time {
+            @extend .title;
+            color: $color1;
+        }
+        .price {
+            @extend .strongFont;
+            position: absolute;
+            font-size: 20px;
+            bottom: 20px + $basePadding*2;
+        }
+    }
+}
